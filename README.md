@@ -67,7 +67,7 @@ Resume_Classification_Project/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/Resume_Classification_Project.git
+git clone [https://github.com/pankajbadipahadi/Resume_Classification.git]
 cd Resume_Classification_Project
 ````
 
